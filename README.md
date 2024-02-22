@@ -1,4 +1,4 @@
-# OpenAI PowerPoint Presentation Generator
+# AI PRESENTATION MAKER
 This is a Python script that uses OpenAI's GPT-3 API to automatically generate PowerPoint presentations on a given topic.
 
 ## Usage
