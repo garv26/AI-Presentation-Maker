@@ -1,5 +1,5 @@
 # AI PRESENTATION MAKER
-This is a Python script that uses OpenAI's GPT-3 API to automatically generate PowerPoint presentations on a given topic.
+The project aimed to streamline the presentation creation process by automating content generation while allowing users to personalize their presentations through the user-friendly interface. Developed a presentation maker leveraging the capabilities of generative AI, OpenAI API and the powerful gpt-3 turbo model. Integrated Python libraries to seamlessly generate content for the presentation and employed various tools to create the PowerPoint (PPT) slides. Crafted an interactive graphical user interface (GUI) that provides users with a range of customization options for their presentations.
 
 ## Usage
 - Sign up for an OpenAI account and get an API key.
